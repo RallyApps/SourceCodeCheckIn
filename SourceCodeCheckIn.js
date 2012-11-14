@@ -31,7 +31,7 @@ function SourceCodeCheckIn() {
 
     //private method to display error message when no discussion or changeset data
     function checkForNoData() {
-        var helpTopic = "http://www.rallydev.com/help/source-code";
+        var helpTopic = "http://www.rallydev.com/help/source-code-integrations";
 
         if (results.scmdiscussion.length === 0 && results.scmrepository.length === 0) {
             containerDiv.innerHTML = '<div class="no-data">No source code check-ins.<br>' +
