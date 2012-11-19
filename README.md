@@ -39,4 +39,4 @@ Available Rakefile tasks are:
 
 ## License
 
-SourceCodeCheckIn is released under the MIT license.  See the file [LICENSE](https://raw.github.com/RallyApps/Kanban/master/LICENSE) for the full text.
+SourceCodeCheckIn is released under the MIT license.  See the file [LICENSE](https://raw.github.com/RallyApps/SourceCodeCheckIn/master/LICENSE) for the full text.
